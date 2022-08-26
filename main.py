@@ -1,6 +1,5 @@
-import pandas as pd # 0.23.0
-import requests     # 2.19.1
-import io
+import requests    
+
 
 url_endpoint = 'https://www.bankofengland.co.uk/boeapps/database/_iadb-fromshowcolumns.asp?csv.x=yes'
 
